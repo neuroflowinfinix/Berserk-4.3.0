@@ -1,0 +1,9 @@
+{
+  "name": "berserk-wasm",
+  "version": "4.3.0",
+  "description": "Sub-7MB WebAssembly port of the Berserk 4.3.0 Chess Engine (HCE release).",
+  "main": "src/berserk.js",
+  "scripts": { "build": "./build.sh" },
+  "keywords": ["chess","uci","engine","webassembly","wasm","berserk"],
+  "license": "GPL-3.0"
+}
